@@ -1,0 +1,5 @@
+---
+# defaults file for nginx
+nginx_port: 80
+nginx_server_name: nginx_web
+nginx_user: admin_user01
